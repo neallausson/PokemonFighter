@@ -10,6 +10,7 @@ public class WalkingController : Controller {
     private Vector3 adjWallJumpVelocity;
     private float jumpPressTime;
     private float wallJumpPressTime;
+    
 
     //settings
     [SerializeField]
